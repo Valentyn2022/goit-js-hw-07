@@ -1,4 +1,5 @@
 import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
-console.log(galleryItems);
+const galleryContainerEl = document.querySelector(".gallery");
+const imageMarkup = create
